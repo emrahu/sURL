@@ -2,13 +2,14 @@
 
 It's like cURL but better!
 
-Inspired by cURL, using Swift to rewrite emulate cURL CLI 
+Inspired by cURL, using Swift to emulate cURL CLI 
 
 ### Installation
 This project is built using XCode 10.1 and Swift 4.2 
 
 Clone the project ```git clone https://github.com/emrahu/sURL.git``` then run ```swift build```
-To print response header run this command on your terminal  ```./build/debug/sURL -I http://github.com```
+
+To print response header run ```./build/debug/sURL -I http://github.com```
 
 No dependency is used in this project.
 
