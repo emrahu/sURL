@@ -1,4 +1,6 @@
 # sURL
+[![@emrahusar](https://img.shields.io/badge/contact-@emrahusar-5AA9E7.svg?style=flat)](https://twitter.com/emrahusar)
+
 
 It's like cURL but better!
 

@@ -1,4 +1,6 @@
+import Foundation
 import sURLCore
+
 let tool = sURL()
 do{
     try tool.run()

@@ -14,6 +14,7 @@ public final class sURL{
         guard arguments.count > 1 else {
             consoleLog("surl: try 'surl --help' for more information")
             throw Error.missingCommand
+            
         }
         let option = arguments[1]
         
